@@ -1,0 +1,24 @@
+{
+  "item.cheesymod.cheesite":"Cheesite",
+  "item.cheesymod.raw_cheesite":"Raw Cheesite",
+
+  "item.cheesymod.baked_rat":"Baked Rat",
+  "item.cheesymod.rat_poop":"Rat Poop",
+
+  "item.cheesymod.cheesel":"Cheesel",
+
+  "block.cheesymod.cheesite_block":"Block of Cheesite",
+  "block.cheesymod.moldy_cheesite_block":"Block of Moldy Cheesite",
+  "block.cheesymod.cheesite_ore":"Cheesite Ore",
+
+  "block.cheesymod.magic_block":"Magic Block",
+
+  "creativetab.cheesymod.cheesite_items": "Cheesite Items",
+  "creativetab.cheesymod.cheesite_blocks": "Cheesite Blocks",
+
+  "tooltip.cheesymod.magicblock.tooltip": "This block is §l§4SUS§r",
+
+  "tooltip.cheesymod.cheesel.shift_down": "§7This cheesel will change the cheese's state!§r",
+  "tooltip.cheesymod.cheesel": "§7Press §eSHIFT§r for more information.§r",
+  "tooltip.cheesymod.raw_cheesite.tooltip": "§7Not for consumption!§r"
+}
